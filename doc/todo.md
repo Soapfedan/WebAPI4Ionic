@@ -1,4 +1,4 @@
-# Lista delle priorità di analisi delle WebAPIs
+# Lista priorità nell'analisi delle WebAPIs
 
 1. <a href="https://developer.mozilla.org/en-US/docs/WebAPI/Camera" title="WebAPI/Camera">Camera API</a> 
 
